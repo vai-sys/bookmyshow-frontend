@@ -1,7 +1,3 @@
-
-
-
-
 import React, { useState } from 'react';
 import { Search, MapPin, Menu, ChevronDown, X } from 'lucide-react';
 
