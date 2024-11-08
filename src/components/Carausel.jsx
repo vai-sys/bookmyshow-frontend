@@ -11,13 +11,13 @@ const Carousel = () => {
   const slides = [
     {
       id: 1,
-      imageUrl: "/api/placeholder/1200/400",
+      imageUrl: "https://assets-in.bmscdn.com/promotions/cms/creatives/1726036566435_playcardnewweb.jpg",
       title: "HDFC Bank Card Offer",
       type: "OFFER"
     },
     {
       id: 2,
-      imageUrl: "/api/placeholder/1200/400",
+      imageUrl: "https://assets-in.bmscdn.com/promotions/cms/creatives/1730789155169_1240x300pkpune.png",
       title: "Haazri - A Homage to Padma Vibhushan",
       subtitle: "Dil Mein Samaa Jaa",
       date: "17 JANUARY",
@@ -26,7 +26,7 @@ const Carousel = () => {
     },
     {
       id: 3,
-      imageUrl: "/api/placeholder/1200/400",
+      imageUrl: "https://assets-in.bmscdn.com/promotions/cms/creatives/1730873728478_maroon5webshowcase1240x300.jpg",
       title: "Your Journey gets Better",
       type: "PROMO"
     }
